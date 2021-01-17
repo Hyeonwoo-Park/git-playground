@@ -4,5 +4,6 @@ class ABC{
 		int b = 2;
 		System.out.println("Hello World!?");
 		System.out.Println(a - b);
+		System.out.println(a + b);
 	}
 }
